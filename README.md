@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/dipanshurdev/leetcode-questions/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dipanshurdev/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dipanshurdev/leetcode-questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
