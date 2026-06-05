@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dipanshurdev/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/dipanshurdev/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dipanshurdev/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dipanshurdev/leetcode-questions/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/dipanshurdev/leetcode-questions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
