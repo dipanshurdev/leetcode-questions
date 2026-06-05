@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/dipanshurdev/leetcode-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dipanshurdev/leetcode-questions/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dipanshurdev/leetcode-questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/dipanshurdev/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/dipanshurdev/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/dipanshurdev/leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dipanshurdev/leetcode-questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/dipanshurdev/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
