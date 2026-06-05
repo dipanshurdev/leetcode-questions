@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dipanshurdev/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/dipanshurdev/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/dipanshurdev/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dipanshurdev/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/dipanshurdev/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dipanshurdev/leetcode-questions/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dipanshurdev/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
