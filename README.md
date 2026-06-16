@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dipanshurdev/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/dipanshurdev/leetcode-questions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/dipanshurdev/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/dipanshurdev/leetcode-questions/tree/master/0493-reverse-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dipanshurdev/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dipanshurdev/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipanshurdev/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/dipanshurdev/leetcode-questions/tree/master/0322-coin-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dipanshurdev/leetcode-questions/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/dipanshurdev/leetcode-questions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
