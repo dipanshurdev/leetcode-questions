@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/dipanshurdev/leetcode-questions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/dipanshurdev/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dipanshurdev/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/dipanshurdev/leetcode-questions/tree/master/0493-reverse-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dipanshurdev/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dipanshurdev/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/dipanshurdev/leetcode-questions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -132,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dipanshurdev/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/dipanshurdev/leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/dipanshurdev/leetcode-questions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -214,8 +219,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
