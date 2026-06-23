@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dipanshurdev/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dipanshurdev/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dipanshurdev/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dipanshurdev/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dipanshurdev/leetcode-questions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -204,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dipanshurdev/leetcode-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dipanshurdev/leetcode-questions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
