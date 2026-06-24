@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dipanshurdev/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/dipanshurdev/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dipanshurdev/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dipanshurdev/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
