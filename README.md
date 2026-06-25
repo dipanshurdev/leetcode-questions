@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dipanshurdev/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dipanshurdev/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/dipanshurdev/leetcode-questions/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/dipanshurdev/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dipanshurdev/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/dipanshurdev/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -193,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dipanshurdev/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/dipanshurdev/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/dipanshurdev/leetcode-questions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dipanshurdev/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/dipanshurdev/leetcode-questions/tree/master/0496-next-greater-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
