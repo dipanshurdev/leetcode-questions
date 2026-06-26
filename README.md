@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dipanshurdev/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/dipanshurdev/leetcode-questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/dipanshurdev/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/dipanshurdev/leetcode-questions/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dipanshurdev/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/dipanshurdev/leetcode-questions/tree/master/0460-lfu-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dipanshurdev/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/dipanshurdev/leetcode-questions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
