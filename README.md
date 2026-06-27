@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dipanshurdev/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/dipanshurdev/leetcode-questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/dipanshurdev/leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0994-rotting-oranges](https://github.com/dipanshurdev/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dipanshurdev/leetcode-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dipanshurdev/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dipanshurdev/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/dipanshurdev/leetcode-questions/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipanshurdev/leetcode-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/dipanshurdev/leetcode-questions/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/dipanshurdev/leetcode-questions/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
