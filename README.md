@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipanshurdev/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dipanshurdev/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/dipanshurdev/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/dipanshurdev/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/dipanshurdev/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/dipanshurdev/leetcode-questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipanshurdev/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/dipanshurdev/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dipanshurdev/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/dipanshurdev/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/dipanshurdev/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
@@ -250,8 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dipanshurdev/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/dipanshurdev/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/dipanshurdev/leetcode-questions/tree/master/0460-lfu-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dipanshurdev/leetcode-questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
