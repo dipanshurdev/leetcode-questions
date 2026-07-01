@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dipanshurdev/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipanshurdev/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/dipanshurdev/leetcode-questions/tree/master/0322-coin-change) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dipanshurdev/leetcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dipanshurdev/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/dipanshurdev/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/dipanshurdev/leetcode-questions/tree/master/0686-repeated-string-match) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dipanshurdev/leetcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
