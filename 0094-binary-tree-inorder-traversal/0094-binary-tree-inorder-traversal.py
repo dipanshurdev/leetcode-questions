@@ -10,9 +10,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-
         
-
         ans = []
         curr = root
 
@@ -38,4 +36,3 @@ class Solution(object):
                     curr = curr.right
 
         return ans
-        
