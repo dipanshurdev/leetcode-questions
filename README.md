@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dipanshurdev/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dipanshurdev/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dipanshurdev/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dipanshurdev/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/dipanshurdev/leetcode-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dipanshurdev/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/dipanshurdev/leetcode-questions/tree/master/0234-palindrome-linked-list) |
@@ -299,4 +300,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dipanshurdev/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/dipanshurdev/leetcode-questions/tree/master/0686-repeated-string-match) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dipanshurdev/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dipanshurdev/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dipanshurdev/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
